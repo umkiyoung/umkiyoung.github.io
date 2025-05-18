@@ -13,8 +13,3 @@ redirect_from:
 ## News
 * 📄 **May 2025**: Paper accepted at the International Conference on Machine Learning (ICML) 2025
 * 🎓 **March 2024**: Joined the System Intelligence Lab as a Master's student at KAIST
-
-
-## News
-* **May 2025**: Paper accepted at the International Conference on Machine Learning (ICML) 2025
-* **March 2024**: Joined the System Intelligence Lab as a Master's student at KAIST
