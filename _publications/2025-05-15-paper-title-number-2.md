@@ -1,9 +1,9 @@
 ---
 title: "Posterior Inference in Latent Space for Scalable Constrained Black-box Optimization (CiBO)"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2025-05-15-cibo
-excerpt: 'Proposed a novel framework for scalable and efficient constrained optimization by performing posterior inference in the latent space of flow-based models.'
+excerpt: ''
 date: 2025-05-15
 venue: 'preprint'
 paperurl: ''
