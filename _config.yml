@@ -25,10 +25,10 @@ author:
   avatar           : "kiyoungom.jpg"
   name             : "Kiyoung Om"
   pronouns         : "he/him"  
-  bio              : "I am a MS student in the Department of Data Science at the Korea Advanced Institute of Science and Technology (KAIST). My research interests are in the areas of machine learning, specifically in generative models and their applications to sequential decision making."
-  location         : "South Korea"
+  bio              : "MS student in KAIST System Intelligence Lab"
+  location         : "Daejeon,South Korea"
   employer         : "KAIST"
-  uri              : "http://silab.kaist.ac.kr/"
+  uri              : #
   email            : "se99an@kaist.ac.kr" 
 
   # Academic websites
