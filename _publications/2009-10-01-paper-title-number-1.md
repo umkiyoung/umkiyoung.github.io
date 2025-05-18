@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-02-24-dibo
 excerpt: 'We introduce DiBO, a novel framework leveraging diffusion models for high-dimensional black-box optimization, demonstrating superior performance over existing methods.'
 date: 2025-02-24
-venue: 'International Conference on Machine Learning (ICML), 2025'
+venue: 'International Conference on Machine Learning (ICML)'
 paperurl: 'https://arxiv.org/abs/2502.16824'
 citation: 'Yun, T., Om, K., Lee, J., Yun, S., & Park, J. (2025). "Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization." In Proceedings of the International Conference on Machine Learning (ICML).'
 ---
