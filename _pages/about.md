@@ -23,4 +23,4 @@ My research revolves around machine learning, with a special focus on **generati
 
 * **Korea University** | B.S. in Industrial Engineering *(2018 – 2023)*
 
-  * Member of KUBIG
+  * Member of [Korea University Data Science Society (KUBIG)](https://kubigkorea.com/) 
