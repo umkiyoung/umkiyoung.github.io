@@ -9,27 +9,27 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Kiyoung Om"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kiyoung Om"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://umkiyoung.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "umkiyoung/umkiyoung.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "kiyoungom.jpg"
+  name             : "Kiyoung Om"
+  pronouns         : "he/him"  
+  bio              : "I am a MS student in the Department of Data Science at the Korea Advanced Institute of Science and Technology (KAIST). My research interests are in the areas of machine learning, specifically in generative models and their applications to sequential decision making."
+  location         : "South Korea"
+  employer         : "KAIST"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "se99an@kaist.ac.kr" 
 
   # Academic websites
   academia         : # URL
