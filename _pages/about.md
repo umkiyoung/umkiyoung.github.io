@@ -8,7 +8,9 @@ redirect_from:
 ---
 👋 **Hi! I'm Kiyoung Om**, a Master's student at the [Graduate School of Data Science](https://gsds.kaist.ac.kr/) at the Korea Advanced Institute of Science and Technology (**KAIST**). I'm currently working in the [System Intelligence Lab](http://silab.kaist.ac.kr/) under the supervision of Professor [Jinkyoo Park](https://scholar.google.com/citations?user=sH2a0nkAAAAJ&hl=ko&oi=ao).
 
-My research revolves around machine learning, with a special focus on **generative models** and their applications to **sequential decision-making problems**.
+My research bridges cutting-edge **generative models** (Diffusion Models, Flow-based Models) with **sequential decision-making** (Reinforcement Learning, Black-box optimization). I develop algorithms that learn complex probability distributions and leverage them to make optimal decisions under uncertainty. This interdisciplinary approach combines theoretical advancements with practical solutions to challenging real-world problems.
+
+In my recent publication, "Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization," I introduced novel techniques that harness the power of generative modeling to solve previously intractable optimization challenges across various domains.
 
 ## 🔥 News
 * 📄 **May 2025**: Paper accepted at the International Conference on Machine Learning (ICML) 2025

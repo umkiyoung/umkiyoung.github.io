@@ -1,4 +1,4 @@
-# Base image: Ruby with necessary dependencies for Jekyll
+bundle exec jekyll serve# Base image: Ruby with necessary dependencies for Jekyll
 FROM ruby:3.2
 
 # Install dependencies
