@@ -1,20 +1,23 @@
-<!-- ---
-title: "Teaching experience 2"
+---
+title: "Deep Learning Programming Study"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Summer Lecture"
+permalink: /teaching/2023-summer-teaching
+venue: "Korea University"
+date: 2023-07-01
+location: "Seoul, South Korea"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I served as a Teaching Assistant for the Deep Learning Programming Study under the guidance of Professor Sungbin Lim. In this role, I helped students master the fundamentals of building deep learning pipelines using advanced Python tools.
 
-Heading 1
+Responsibilities
 ======
+* Assisted students with implementing neural networks using PyTorch
+* Guided participants through practical exercises in deep learning
 
-Heading 2
+Technical Focus
 ======
-
-Heading 3
-====== -->
+* NumPy for scientific computing and mathematical operations
+* PyTorch for building and training neural networks
+* AutoGrad for automatic differentiation
+* PyTorch-Lightning for streamlining the training process

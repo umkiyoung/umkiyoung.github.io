@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,37 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
+Personal Information
+======
+* Birth: 18th September 1999, Republic of Korea
+* Nationality: Korean
+* Languages: Korean (native), English (fluent, TOEIC 930, TOEFL 96)
+* Github: [https://github.com/umkiyoung](https://github.com/umkiyoung)
+* Linkedin: [https://www.linkedin.com/in/kiyoung-om](https://www.linkedin.com/in/kiyoung-om/)
+* Contact: se99an@gmail.com, se99an@kaist.ac.kr
+* Phone: +82-10-2575-5334
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Industrial Management Engineering, Korea University, Mar. 2018 - Feb. 2024
+  * GPA: 4.0/4.5, Major GPA: 4.17/4.5
+* M.S. in Graduate School of Data Science, Korea Advanced Institute of Science and Technology (KAIST)
 
-Work experience
+Awards and Honors
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Academic Excellence Award, Korea University (2022)
+* Capstone Excellence Award, Korea University (2022)
+  * Topic: Understanding the Lifecycle and Gap Technologies of Lithium-Ion Batteries
+* Commander's Commendation (2020)
+  * Speech Contest on Practicing the Core Values of the Army and Showcasing Examples
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Extracurricular Activities
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* KUBIG, Regular Member (July 2022 - July 2023)
+  * Computer Vision Projects
+    * Zero-shot object detection using CLIP with Grad-CAM application
+    * Vehicle hazard detection using YOLOv7
+    * Prediction of breast cancer lymph node metastasis AI contest
+  * Natural Language Processing Project
+    * Summarizing Wikipedia, Namuwiki website using BART, KoBART
+  * Timeseries Analysis Project
+    * Stocks' close price prediction contest
+  * Reinforcement Learning Project
+    * Algorithm trading/Backtesting using FinRL
+
+
+* Solar Cell Lab - AI Industry-Academia Collaboration Program, AI application advisor (April 2023 - July 2023)
+  * Prediction of Weighted-Average reflection of solar cells using panel images
+  * Optimal Experimental Date and Efficiency Prediction of Perovskite Solar Cells based on Weather Forecast
 
 Publications
 ======
@@ -59,6 +70,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
