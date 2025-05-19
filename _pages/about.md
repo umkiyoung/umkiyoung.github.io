@@ -10,10 +10,8 @@ redirect_from:
 
 My research bridges cutting-edge **generative models** (Diffusion Models, Flow-based Models) with **sequential decision-making** (Reinforcement Learning, Black-box optimization). I develop algorithms that learn complex probability distributions and leverage them to make optimal decisions under uncertainty. This interdisciplinary approach combines theoretical advancements with practical solutions to challenging real-world problems.
 
-In my recent publication, "Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization," I introduced novel techniques that harness the power of generative modeling to solve previously intractable optimization challenges across various domains.
-
 ## 🔥 News
-* 📄 **May 2025**: Paper accepted at the International Conference on Machine Learning (ICML) 2025
+* 📄 **May 2025**: One paper accepted at the International Conference on Machine Learning (ICML) 2025
 * 🎓 **March 2024**: Joined the System Intelligence Lab as a Master's student at KAIST
 
 ## 🎓 Education
