@@ -36,17 +36,10 @@ Awards and Honors
 Extracurricular Activities
 ======
 * KUBIG, Regular Member (July 2022 - July 2023)
-  * Computer Vision Projects
-    * Zero-shot object detection using CLIP with Grad-CAM application
-    * Vehicle hazard detection using YOLOv7
-    * Prediction of breast cancer lymph node metastasis AI contest
-  * Natural Language Processing Project
-    * Summarizing Wikipedia, Namuwiki website using BART, KoBART
-  * Timeseries Analysis Project
-    * Stocks' close price prediction contest
-  * Reinforcement Learning Project
-    * Algorithm trading/Backtesting using FinRL
-
+  * Zero-shot object detection using CLIP with Grad-CAM application
+  * Vehicle hazard detection using YOLOv7
+  * Prediction of breast cancer lymph node metastasis AI contest
+  * Algorithm trading/Backtesting with FinRL
 
 * Solar Cell Lab - AI Industry-Academia Collaboration Program, AI application advisor (April 2023 - July 2023)
   * Prediction of Weighted-Average reflection of solar cells using panel images
