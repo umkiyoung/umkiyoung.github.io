@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kiyoung Om | KAIST System Intelligence Lab"
+title                    : "Om.io"
 title_separator          : "-"
 name                     : &name "Kiyoung Om"
 description              : &description "personal description"
