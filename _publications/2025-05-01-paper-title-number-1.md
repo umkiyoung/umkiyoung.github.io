@@ -13,3 +13,5 @@ DiBO introduces a novel framework that combines diffusion models with ensemble-b
 
 For a visual explanation of the DiBO framework, please see the image below:
 ![DiBO Framework](../images/publication/dibo.png)
+
+You can find the paper [here](https://arxiv.org/abs/2502.16824).
