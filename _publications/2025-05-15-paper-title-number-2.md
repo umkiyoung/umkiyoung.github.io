@@ -6,7 +6,7 @@ permalink: /publication/2025-05-15-cibo
 excerpt: ''
 date: 2025-05-15
 venue: 'preprint'
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2507.00480'
 # citation: ''
 ---
 

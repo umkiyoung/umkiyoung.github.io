@@ -13,7 +13,7 @@ Personal Information
 ======
 * Birth: 18th September 1999, Republic of Korea
 * Nationality: Korean
-* Languages: Korean (native), English (fluent, TOEIC 930, TOEFL 96)
+* Languages: Korean (native), English (fluent)
 * Github: [https://github.com/umkiyoung](https://github.com/umkiyoung)
 * Linkedin: [https://www.linkedin.com/in/kiyoung-om](https://www.linkedin.com/in/kiyoung-om/)
 * Contact: se99an@gmail.com, se99an@kaist.ac.kr
@@ -22,7 +22,7 @@ Personal Information
 Education
 ======
 * B.S. in Industrial Management Engineering, Korea University, Mar. 2018 - Feb. 2024
-  * GPA: 4.0/4.5, Major GPA: 4.17/4.5
+  * GPA: 4.02/4.5 (3.57/4.0), Major GPA: 4.19/4.5 (3.75/4.0)
 * M.S. in Graduate School of Data Science, Korea Advanced Institute of Science and Technology (KAIST)
 
 Awards and Honors
