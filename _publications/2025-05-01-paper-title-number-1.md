@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-05-01-dibo
 excerpt: ''
 date: 2025-05-01
-venue: 'ICML2025 and ICLR2025 Workshop on Frontiers in Probabilistic Inference: Sampling Meets Learning'
+venue: 'ICML'
 paperurl: 'https://openreview.net/forum?id=EXds2NBOoq'
 # citation: ''
 ---
