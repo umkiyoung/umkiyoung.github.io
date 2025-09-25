@@ -14,6 +14,7 @@ Additionally, I am passionate about the **alignment of generative models**—inc
 
 
 ## 🔥 News
+* 📄 **Sep 2025**: One paper accepted at the NeurIPS 2025 workshop on SPIGM (Oral)
 * 📄 **May 2025**: One paper accepted at the International Conference on Machine Learning (ICML) 2025
 * 🎓 **March 2024**: Joined the System Intelligence Lab as a Master's student at KAIST
 
