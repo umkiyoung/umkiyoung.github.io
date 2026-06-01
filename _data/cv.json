@@ -1,152 +1,196 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Kiyoung Om",
+    "label": "Research Intern at NAVER LABS; KAIST M.S.",
+    "email": "se99an@kaist.ac.kr",
+    "phone": "+82-10-2575-5334",
+    "website": "https://umkiyoung.github.io",
+    "summary": "Research intern at NAVER LABS and M.S. graduate from KAIST Graduate School of Data Science. My current research focuses on closed-loop covariate shift in traffic simulation for autonomous driving, with broader interests in generative models for optimization, control, and alignment.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Seongnam",
+      "countryCode": "KR",
+      "region": "Gyeonggi-do"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "Kiyoung Om",
+        "url": "https://scholar.google.com/citations?user=H_-o9TQAAAAJ&hl=ko"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "umkiyoung",
+        "url": "https://github.com/umkiyoung"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "kiyoung-om",
+        "url": "https://www.linkedin.com/in/kiyoung-om/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "NAVER LABS",
+      "position": "Research Intern",
+      "startDate": "Mar. 2026",
+      "endDate": "Aug. 2026",
+      "summary": "Research on closed-loop covariate shift in traffic simulation for autonomous driving.",
+      "highlights": [
+        "Studying robust simulation and learning methods for autonomous vehicle policies interacting with dynamic traffic environments.",
+        "Focusing on distribution shift induced by closed-loop policy-environment interaction."
+      ]
+    },
+    {
+      "company": "Samsung Electronics-KAIST AI Industry-Academia Collaboration",
+      "position": "AI Research Assistant",
+      "startDate": "Mar. 2025",
+      "endDate": "Feb. 2026",
+      "summary": "AI-enhanced supply chain management optimization.",
+      "highlights": [
+        "Developed subgradient lambda prediction methods for complex SCM optimization.",
+        "Improved optimization speed and efficiency through machine learning approaches."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
+      "area": "M.S. in Data Science",
+      "studyType": "Master of Science",
+      "startDate": "Mar. 2024",
+      "endDate": "Feb. 2026",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Graduate School of Data Science",
+        "Advisor: Prof. Jinkyoo Park, System Intelligence Lab"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Korea University",
+      "area": "B.S. in Industrial Management Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "Mar. 2018",
+      "endDate": "Feb. 2024",
+      "gpa": "4.02/4.5",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Research",
+      "keywords": [
+        "Autonomous driving",
+        "Traffic simulation",
+        "Closed-loop covariate shift",
+        "Sequential decision making",
+        "Black-box optimization",
+        "Generative model alignment"
+      ]
+    },
+    {
+      "name": "Methods",
+      "keywords": [
+        "Diffusion models",
+        "Flow-based models",
+        "Reinforcement learning",
+        "Bayesian optimization",
+        "Posterior inference"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Korean",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Autonomous driving and simulation",
+      "keywords": [
+        "Traffic simulation",
+        "Closed-loop evaluation",
+        "Distribution shift"
+      ]
+    },
+    {
+      "name": "Generative decision making",
+      "keywords": [
+        "Optimization",
+        "Control",
+        "Alignment"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Diffusion Fine-Tuning via Reparameterized Policy Gradient of the Soft Q-Function",
+      "publisher": "ICLR 2026",
+      "releaseDate": "2026-01-26",
+      "website": "https://openreview.net/forum?id=8zoxC9e23q",
+      "summary": "Hyeongyu Kang, Jaewoo Lee, Woocheol Shin, Kiyoung Om, and Jinkyoo Park."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Diffusion Alignment as Variational Expectation-Maximization",
+      "publisher": "ICLR 2026",
+      "releaseDate": "2026-01-26",
+      "website": "https://openreview.net/forum?id=aBeIFDshvZ",
+      "summary": "Jaewoo Lee, Minsu Kim, Sanghyeok Choi, Inhyuck Song, Sujin Yun, Hyeongyu Kang, Woocheol Shin, Taeyoung Yun, Kiyoung Om, and Jinkyoo Park."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Posterior Inference in Latent Space for Scalable Constrained Black-box Optimization",
+      "publisher": "NeurIPS SPIGM Workshop 2025 (Oral)",
+      "releaseDate": "2025-09-23",
+      "website": "https://openreview.net/forum?id=X4DFcAfkFS",
+      "summary": "Kiyoung Om, Kyuil Sim, Taeyoung Yun, Hyeongyu Kang, and Jinkyoo Park."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization",
+      "publisher": "ICML 2025; FPI @ ICLR Workshop 2025",
+      "releaseDate": "2025-05-01",
+      "website": "https://openreview.net/forum?id=EXds2NBOoq",
+      "summary": "Taeyoung Yun, Kiyoung Om, Jaewoo Lee, Sujin Yun, and Jinkyoo Park."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Geometry-aware Posterior Inference for High-dimensional Black-box Optimization",
+      "event": "KAIST SILAB Seminar",
+      "date": "2025-10-15",
+      "location": "Daejeon, South Korea",
+      "description": "Seminar on generative model-based optimization on Riemannian manifolds."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Control as Probabilistic Inference",
+      "event": "KAIST SILAB Seminar",
+      "date": "2025-04-23",
+      "location": "Daejeon, South Korea",
+      "description": "Seminar on interpreting control problems through probabilistic inference."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "IE343 Statistical Machine Learning",
+      "institution": "KAIST, Industrial & Systems Engineering",
+      "date": "2024-03-01",
+      "role": "Teaching Assistant",
+      "description": "Graded assignments, provided feedback, and held office hours."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Deep Learning Programming Study",
+      "institution": "Korea University",
+      "date": "2023-07-01",
+      "role": "Teaching Assistant",
+      "description": "Helped participants implement deep learning pipelines with NumPy, PyTorch, AutoGrad, and PyTorch-Lightning."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
