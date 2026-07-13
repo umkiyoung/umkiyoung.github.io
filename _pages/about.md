@@ -38,7 +38,7 @@ Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAV
     <div class="selected-publication__content">
       <h3><a href="/publication/2026-07-08-flow-erd">Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation</a></h3>
       <p class="selected-publication__meta">arXiv preprint, 2026</p>
-      <p class="selected-publication__authors">Hwang, S.*, <strong>Om, K.*</strong>, Kim, D., and Lee, J.</p>
+      <p class="selected-publication__authors">Seulbin Hwang*, <strong>Kiyoung Om*</strong>, Daejung Kim, and Jinhan Lee</p>
       <p class="selected-publication__links">
         <a href="https://arxiv.org/abs/2607.06957">Paper</a>
         <a href="https://seulbinhwang.github.io/flow-erd-project-page/">Project</a>
@@ -53,7 +53,7 @@ Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAV
     <div class="selected-publication__content">
       <h3><a href="/publication/2025-05-15-cibo">Posterior Inference in Latent Space for Scalable Constrained Black-box Optimization (CiBO)</a></h3>
       <p class="selected-publication__meta">NeurIPS SPIGM Workshop 2025 (Oral)</p>
-      <p class="selected-publication__authors"><strong>Om, K.*</strong>, Sim, K.*, Yun, T.*, Kang, H., and Park, J.</p>
+      <p class="selected-publication__authors"><strong>Kiyoung Om*</strong>, Kyuil Sim*, Taeyoung Yun*, Hyeongyu Kang, and Jinkyoo Park</p>
       <p class="selected-publication__links">
         <a href="https://openreview.net/forum?id=X4DFcAfkFS">Paper</a>
         <a href="https://arxiv.org/abs/2507.00480">arXiv</a>
@@ -69,7 +69,7 @@ Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAV
     <div class="selected-publication__content">
       <h3><a href="/publication/2025-05-01-dibo">Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization (DiBO)</a></h3>
       <p class="selected-publication__meta">ICML 2025; FPI @ ICLR Workshop</p>
-      <p class="selected-publication__authors">Yun, T.*, <strong>Om, K.*</strong>, Lee, J., Yun, S., and Park, J.</p>
+      <p class="selected-publication__authors">Taeyoung Yun*, <strong>Kiyoung Om*</strong>, Jaewoo Lee, Sujin Yun, and Jinkyoo Park</p>
       <p class="selected-publication__links">
         <a href="https://openreview.net/forum?id=EXds2NBOoq">Paper</a>
         <a href="https://github.com/umkiyoung/DiBO">Code</a>

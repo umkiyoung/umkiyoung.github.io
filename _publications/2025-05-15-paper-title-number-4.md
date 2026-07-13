@@ -10,7 +10,7 @@ paperurl: 'https://openreview.net/forum?id=8zoxC9e23q'
 arxivurl: 'https://arxiv.org/abs/2512.04559'
 codeurl: 'https://github.com/Shin-woocheol/SQDF'
 short_title: 'SQDF'
-authors: 'Kang, H.*, Lee, J.*, Shin, W.*, <strong>Om, K.</strong>, and Park, J.'
+authors: 'Hyeongyu Kang*, Jaewoo Lee*, Woocheol Shin*, <strong>Kiyoung Om</strong>, and Jinkyoo Park'
 citation: 'Kang, H.*, Lee, J.*, Shin, W.*, Om, K., &amp; Park, J. (2026). &quot;Diffusion Fine-Tuning via Reparameterized Policy Gradient of the Soft Q-Function.&quot; <i>ICLR</i>.'
 bibtex: |
   @inproceedings{kang2026sqdf,
