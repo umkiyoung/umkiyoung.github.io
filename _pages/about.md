@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAVER LABS](https://www.naverlabs.com/). I received my M.S. in Data Science from the [Graduate School of Data Science](https://gsds.kaist.ac.kr/) at the Korea Advanced Institute of Science and Technology (KAIST), where I worked in the [System Intelligence Lab](http://silab.kaist.ac.kr/) under the supervision of Professor [Jinkyoo Park](https://scholar.google.com/citations?user=sH2a0nkAAAAJ&hl=ko&oi=ao).
-
-My recent CV: [CV](/assets/files/CV_Kiyoung_Om.pdf).
+Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAVER LABS](https://www.naverlabs.com/). I received my M.S. in Data Science from the [Graduate School of Data Science](https://gsds.kaist.ac.kr/) at the Korea Advanced Institute of Science and Technology (KAIST), where I worked in the [System Intelligence Lab](http://silab.kaist.ac.kr/) under the supervision of Professor [Jinkyoo Park](https://scholar.google.com/citations?user=sH2a0nkAAAAJ&hl=ko&oi=ao). Here is my recent [CV](/assets/files/CV_Kiyoung_Om.pdf).
 
 ## 🔥 News
 * 🚗 **March 2026**: Joined NAVER LABS as a Research Intern on the Robotics & Embodied AI Team
@@ -51,5 +49,5 @@ My recent CV: [CV](/assets/files/CV_Kiyoung_Om.pdf).
 <h2 id="teaching">Teaching</h2>
 
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  {% include teaching-item.html %}
 {% endfor %}
