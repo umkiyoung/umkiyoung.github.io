@@ -7,6 +7,10 @@ excerpt: ''
 date: 2026-01-26
 venue: 'ICLR (Poster)'
 paperurl: 'https://openreview.net/forum?id=8zoxC9e23q'
+arxivurl: 'https://arxiv.org/abs/2512.04559'
+codeurl: 'https://github.com/Shin-woocheol/SQDF'
+short_title: 'SQDF'
+summary: 'KL-regularized soft Q-function policy gradients for reward-aligned diffusion fine-tuning.'
 citation: 'Kang, H.*, Lee, J.*, Shin, W.*, Om, K., &amp; Park, J. (2026). &quot;Diffusion Fine-Tuning via Reparameterized Policy Gradient of the Soft Q-Function.&quot; <i>ICLR</i>.'
 bibtex: |
   @inproceedings{kang2026sqdf,

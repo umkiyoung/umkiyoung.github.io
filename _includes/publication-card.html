@@ -1,0 +1,41 @@
+{% include base_path %}
+
+{% assign publication = include.item %}
+{% assign title = publication.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% assign publication_year = publication.date | default: "1900-01-01" | date: "%Y" %}
+
+<article class="selected-publication publication-card" itemscope itemtype="http://schema.org/CreativeWork">
+  <a class="selected-publication__image publication-card__image" href="{{ base_path }}{{ publication.url }}">
+    {% if publication.image %}
+      <img src="{{ publication.image | relative_url }}" alt="{{ publication.image_alt | default: title | strip_html | escape }}">
+    {% else %}
+      <div class="publication-card__placeholder">
+        <span>{{ publication.short_title | default: publication.venue | default: publication_year }}</span>
+      </div>
+    {% endif %}
+  </a>
+
+  <div class="selected-publication__content">
+    <h3 itemprop="headline"><a href="{{ base_path }}{{ publication.url }}">{{ title }}</a></h3>
+    {% if publication.venue %}
+      <p class="selected-publication__meta">{{ publication.venue }}, {{ publication_year }}</p>
+    {% endif %}
+
+    {% if publication.summary %}
+      <p>{{ publication.summary }}</p>
+    {% elsif publication.excerpt %}
+      <p>{{ publication.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+    {% endif %}
+
+    {% if publication.paperurl or publication.projecturl or publication.arxivurl or publication.codeurl or publication.slidesurl or publication.bibtexurl %}
+      <p class="selected-publication__links">
+        {% if publication.paperurl %}<a href="{{ publication.paperurl }}">Paper</a>{% endif %}
+        {% if publication.projecturl %}<a href="{{ publication.projecturl }}">Project</a>{% endif %}
+        {% if publication.arxivurl %}<a href="{{ publication.arxivurl }}">arXiv</a>{% endif %}
+        {% if publication.codeurl %}<a href="{{ publication.codeurl }}">Code</a>{% endif %}
+        {% if publication.slidesurl %}<a href="{{ publication.slidesurl }}">Slides</a>{% endif %}
+        {% if publication.bibtexurl %}<a href="{{ publication.bibtexurl }}">BibTeX</a>{% endif %}
+      </p>
+    {% endif %}
+  </div>
+</article>

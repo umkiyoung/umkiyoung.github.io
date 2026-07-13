@@ -69,6 +69,23 @@
   background: #fff;
 }
 
+.publication-card__placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  aspect-ratio: 2.4 / 1;
+  padding: 0.75rem;
+  color: #555;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.2;
+  background: #f7f7f7;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+}
+
 .selected-publication__content {
   min-width: 0;
 }
@@ -133,6 +150,12 @@
 }
 
 [data-theme="dark"] .selected-publication__image img {
+  border-color: rgba(255, 255, 255, 0.16);
+}
+
+[data-theme="dark"] .publication-card__placeholder {
+  color: #d0d0d0;
+  background: rgba(255, 255, 255, 0.06);
   border-color: rgba(255, 255, 255, 0.16);
 }
 
