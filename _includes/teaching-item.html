@@ -6,7 +6,13 @@
 
     <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
 
-    {% if post.excerpt %}
+    {% if post.bullets %}
+      <ul class="archive__item-excerpt" itemprop="description">
+        {% for bullet in post.bullets %}
+          <li>{{ bullet | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+        {% endfor %}
+      </ul>
+    {% elsif post.excerpt %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
     {% endif %}
   </article>
