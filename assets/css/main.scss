@@ -100,7 +100,7 @@ html {
   position: absolute;
   top: 0.45rem;
   bottom: 0.45rem;
-  left: 6.1rem;
+  left: 7.25rem;
   width: 1px;
   background: rgba(0, 0, 0, 0.14);
   content: "";
@@ -108,7 +108,7 @@ html {
 
 .news-timeline__item {
   display: grid;
-  grid-template-columns: 5.25rem minmax(0, 1fr);
+  grid-template-columns: 6.6rem minmax(0, 1fr);
   column-gap: 1.4rem;
   position: relative;
   margin: 0;
