@@ -20,20 +20,47 @@ Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAV
 
 <h2 id="education">Education</h2>
 
-* **KAIST** | M.S. in Data Science *(2024 – 2026)*
-
-  * Advisor: Prof. Jinkyoo Park
-  * Lab: [System Intelligence Lab](http://silab.kaist.ac.kr/)
-
-* **Korea University** | B.S. in Industrial Management Engineering *(2018 – 2024)*
-
-  * Member of [Korea University Data Science Society (KUBIG)](https://kubigkorea.com/) 
+<ul class="affiliation-list">
+  <li>
+    <p class="affiliation-line">
+      <img class="affiliation-logo affiliation-logo--kaist" src="/images/logos/kaist-logo.gif" alt="KAIST logo">
+      <strong>KAIST</strong>
+      <span class="affiliation-separator">|</span>
+      <span>M.S. in Data Science <em>(2024 – 2026)</em></span>
+    </p>
+    <ul>
+      <li>Advisor: Prof. Jinkyoo Park</li>
+      <li>Lab: <a href="http://silab.kaist.ac.kr/">System Intelligence Lab</a></li>
+    </ul>
+  </li>
+  <li>
+    <p class="affiliation-line">
+      <img class="affiliation-logo affiliation-logo--ku" src="/images/logos/korea-university-logo.png" alt="Korea University logo">
+      <strong>Korea University</strong>
+      <span class="affiliation-separator">|</span>
+      <span>B.S. in Industrial Management Engineering <em>(2018 – 2024)</em></span>
+    </p>
+    <ul>
+      <li>Member of <a href="https://kubigkorea.com/">Korea University Data Science Society (KUBIG)</a></li>
+    </ul>
+  </li>
+</ul>
 
 <h2 id="experience">Experience</h2>
 
-* **NAVER LABS** | Research Intern, Robotics & Embodied AI Team *(Mar. 2026 – Present)*
-
-  * Working on learning and simulation methods for autonomous driving, with a focus on closed-loop traffic simulation.
+<ul class="affiliation-list">
+  <li>
+    <p class="affiliation-line">
+      <img class="affiliation-logo affiliation-logo--naver" src="/images/logos/naver-labs-logo.png" alt="NAVER LABS logo">
+      <strong>NAVER LABS</strong>
+      <span class="affiliation-separator">|</span>
+      <span>Research Intern, Robotics & Embodied AI Team <em>(Mar. 2026 – Present)</em></span>
+    </p>
+    <ul>
+      <li>Working on learning and simulation methods for autonomous driving, with a focus on closed-loop traffic simulation.</li>
+    </ul>
+  </li>
+</ul>
 
 <h2 id="publications">Publications</h2>
 
