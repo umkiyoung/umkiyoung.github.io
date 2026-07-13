@@ -101,12 +101,17 @@
 }
 
 .selected-publication__meta,
+.selected-publication__authors,
 .selected-publication__links {
   font-size: 0.85rem;
 }
 
 .selected-publication__meta {
   color: #666;
+}
+
+.selected-publication__authors {
+  color: #333;
 }
 
 .selected-publication__links a {
@@ -161,6 +166,10 @@
 
 [data-theme="dark"] .selected-publication__meta {
   color: #aaa;
+}
+
+[data-theme="dark"] .selected-publication__authors {
+  color: #ddd;
 }
 
 [data-theme="dark"] .publication-bibtex__label {

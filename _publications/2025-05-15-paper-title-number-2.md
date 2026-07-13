@@ -12,7 +12,7 @@ codeurl: 'https://github.com/umkiyoung/CiBO'
 image: '/images/publication/cibo2.png'
 image_alt: 'CiBO framework overview'
 short_title: 'CiBO'
-summary: 'Latent-space posterior inference for scalable constrained black-box optimization.'
+authors: '<strong>Om, K.*</strong>, Sim, K.*, Yun, T.*, Kang, H., and Park, J.'
 citation: 'Om, K.*, Sim, K.*, Yun, T.*, Kang, H., &amp; Park, J. (2025). &quot;Posterior Inference in Latent Space for Scalable Constrained Black-box Optimization.&quot; <i>NeurIPS Workshop on Structured Probabilistic Inference &amp; Generative Modeling</i> (Oral).'
 bibtex: |
   @inproceedings{om2025cibo,

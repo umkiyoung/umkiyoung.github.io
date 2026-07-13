@@ -10,7 +10,7 @@ paperurl: 'https://openreview.net/forum?id=aBeIFDshvZ'
 arxivurl: 'https://arxiv.org/abs/2510.00502'
 codeurl: 'https://github.com/Jaewoopudding/dav'
 short_title: 'DAV'
-summary: 'Variational EM-style diffusion alignment for optimizing downstream objectives while preserving diversity.'
+authors: 'Lee, J., Kim, M., Choi, S., Song, I., Yun, S., Kang, H., Shin, W., Yun, T., <strong>Om, K.</strong>, and Park, J.'
 citation: 'Lee, J., Kim, M., Choi, S., Song, I., Yun, S., Kang, H., Shin, W., Yun, T., Om, K., &amp; Park, J. (2026). &quot;Diffusion Alignment as Variational Expectation-Maximization.&quot; <i>ICLR</i>.'
 bibtex: |
   @inproceedings{lee2026dav,

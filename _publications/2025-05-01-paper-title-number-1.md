@@ -11,7 +11,7 @@ codeurl: 'https://github.com/umkiyoung/DiBO'
 image: '/images/publication/dibo.png'
 image_alt: 'DiBO framework overview'
 short_title: 'DiBO'
-summary: 'Diffusion-based posterior inference for high-dimensional black-box optimization.'
+authors: 'Yun, T.*, <strong>Om, K.*</strong>, Lee, J., Yun, S., and Park, J.'
 citation: 'Yun, T.*, Om, K.*, Lee, J., Yun, S., &amp; Park, J. (2025). &quot;Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization.&quot; <i>ICML</i>; <i>FPI @ ICLR Workshop</i>.'
 bibtex: |
   @inproceedings{yun2025dibo,

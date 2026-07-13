@@ -21,10 +21,8 @@
       <p class="selected-publication__meta">{{ publication.venue }}, {{ publication_year }}</p>
     {% endif %}
 
-    {% if publication.summary %}
-      <p>{{ publication.summary }}</p>
-    {% elsif publication.excerpt %}
-      <p>{{ publication.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+    {% if publication.authors %}
+      <p class="selected-publication__authors">{{ publication.authors }}</p>
     {% endif %}
 
     {% if publication.paperurl or publication.projecturl or publication.arxivurl or publication.codeurl or publication.slidesurl or publication.bibtexurl %}
