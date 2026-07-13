@@ -28,52 +28,24 @@ Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAV
 
   * Member of [Korea University Data Science Society (KUBIG)](https://kubigkorea.com/) 
 
-## Selected Publications
+<h2 id="publications">Publications</h2>
 
-<div class="selected-publications">
-  <article class="selected-publication">
-    <a class="selected-publication__image" href="/publication/2026-07-08-flow-erd">
-      <img src="/images/publication/flow-erd.png" alt="Flow-ERD framework overview">
-    </a>
-    <div class="selected-publication__content">
-      <h3><a href="/publication/2026-07-08-flow-erd">Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation</a></h3>
-      <p class="selected-publication__meta">arXiv preprint, 2026</p>
-      <p class="selected-publication__authors">Seulbin Hwang*, <strong>Kiyoung Om*</strong>, Daejung Kim, and Jinhan Lee</p>
-      <p class="selected-publication__links">
-        <a href="https://arxiv.org/abs/2607.06957">Paper</a>
-        <a href="https://seulbinhwang.github.io/flow-erd-project-page/">Project</a>
-      </p>
-    </div>
-  </article>
+{% include publications-list.html %}
 
-  <article class="selected-publication">
-    <a class="selected-publication__image" href="/publication/2025-05-15-cibo">
-      <img src="/images/publication/cibo2.png" alt="CiBO framework overview">
-    </a>
-    <div class="selected-publication__content">
-      <h3><a href="/publication/2025-05-15-cibo">Posterior Inference in Latent Space for Scalable Constrained Black-box Optimization (CiBO)</a></h3>
-      <p class="selected-publication__meta">NeurIPS SPIGM Workshop 2025 (Oral)</p>
-      <p class="selected-publication__authors"><strong>Kiyoung Om*</strong>, Kyuil Sim*, Taeyoung Yun*, Hyeongyu Kang, and Jinkyoo Park</p>
-      <p class="selected-publication__links">
-        <a href="https://openreview.net/forum?id=X4DFcAfkFS">Paper</a>
-        <a href="https://arxiv.org/abs/2507.00480">arXiv</a>
-        <a href="https://github.com/umkiyoung/CiBO">Code</a>
-      </p>
-    </div>
-  </article>
+<h2 id="talks">Talks</h2>
 
-  <article class="selected-publication">
-    <a class="selected-publication__image" href="/publication/2025-05-01-dibo">
-      <img src="/images/publication/dibo.png" alt="DiBO framework overview">
-    </a>
-    <div class="selected-publication__content">
-      <h3><a href="/publication/2025-05-01-dibo">Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization (DiBO)</a></h3>
-      <p class="selected-publication__meta">ICML 2025; FPI @ ICLR Workshop</p>
-      <p class="selected-publication__authors">Taeyoung Yun*, <strong>Kiyoung Om*</strong>, Jaewoo Lee, Sujin Yun, and Jinkyoo Park</p>
-      <p class="selected-publication__links">
-        <a href="https://openreview.net/forum?id=EXds2NBOoq">Paper</a>
-        <a href="https://github.com/umkiyoung/DiBO">Code</a>
-      </p>
-    </div>
-  </article>
-</div>
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2 id="teaching">Teaching</h2>
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}

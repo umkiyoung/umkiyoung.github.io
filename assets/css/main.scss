@@ -42,6 +42,19 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
+html {
+  scroll-behavior: smooth;
+}
+
+.page__content h2 {
+  scroll-margin-top: 5rem;
+}
+
+.section-subheading {
+  margin: 1.25rem 0 0.5rem;
+  font-size: 1rem;
+}
+
 .selected-publications {
   margin-top: 1rem;
 }

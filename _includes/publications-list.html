@@ -1,0 +1,27 @@
+{% include base_path %}
+
+{% if site.publication_category %}
+{% for category in site.publication_category %}
+{% assign title_shown = false %}
+{% for post in site.publications reversed %}
+{% if post.category != category[0] %}
+{% continue %}
+{% endif %}
+{% unless title_shown %}
+<h3 class="section-subheading">{{ category[1].title }}</h3>
+<div class="selected-publications publications-list">
+{% assign title_shown = true %}
+{% endunless %}
+{% include publication-card.html item=post %}
+{% endfor %}
+{% if title_shown %}
+</div>
+{% endif %}
+{% endfor %}
+{% else %}
+<div class="selected-publications publications-list">
+{% for post in site.publications reversed %}
+{% include publication-card.html item=post %}
+{% endfor %}
+</div>
+{% endif %}
