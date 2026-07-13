@@ -23,8 +23,9 @@ bibtex: |
     note={Oral}
   }
 ---
+## Abstract
 
-CiBO introduces a novel framework that combines flow-based models with posterior inference in latent space to solve high-dimensional constrained black-box optimization problems. By iteratively training flow-based models to capture data distributions and surrogate models to predict function values and constraint violations, our method effectively handles the challenges of high-dimensional constrained optimization. The key innovation lies in performing posterior inference in the latent space of flow-based models, which helps overcome the multi-modality and plateau issues in the posterior distribution, especially when dealing with binary constraint feedback. Our approach demonstrates superior performance across various synthetic and real-world tasks, offering a scalable solution to constrained black-box optimization problems.
+Optimizing high-dimensional black-box functions under black-box constraints is a pervasive task in a wide range of scientific and engineering problems. These problems are typically harder than unconstrained problems due to hard-to-find feasible regions. In this work, we reformulate constrained black-box optimization as posterior inference, and perform this inference in the latent space of generative models. Our method iterates through two stages. First, we train flow-based models to capture the data distribution and surrogate models that predict both function values and constraint violations. Second, we cast the candidate selection problem as a posterior inference problem to effectively search for promising candidates that have high objective values while not violating the constraints. Concretely, we utilize outsourced diffusion models to amortize the sampling from the posterior distribution in the latent space of flow-based models, which can bypass the issue of mode collapse. We empirically demonstrate that our method achieves superior performance across synthetic and real-world tasks. Our code is available [here](https://github.com/umkiyoung/CiBO).
 
 For a visual explanation of the CiBO framework, please see the image below:
 

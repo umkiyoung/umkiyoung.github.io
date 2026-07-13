@@ -21,7 +21,9 @@ bibtex: |
     year={2025}
   }
 ---
-DiBO introduces a novel framework that combines diffusion models with ensemble-based uncertainty quantification to solve high-dimensional black-box optimization problems. By iteratively training diffusion models to capture data distributions and fine-tuning them for posterior inference, our method effectively balances exploration and exploitation in high-dimensional spaces, outperforming existing approaches across various synthetic and real-world tasks.
+## Abstract
+
+Optimizing high-dimensional and complex black-box functions is crucial in numerous scientific applications. While Bayesian optimization (BO) is a powerful method for sample-efficient optimization, it struggles with the curse of dimensionality and scaling to thousands of evaluations. Recently, leveraging generative models to solve black-box optimization problems has emerged as a promising framework. However, those methods often underperform compared to BO methods due to limited expressivity and difficulty of uncertainty estimation in high-dimensional spaces. To overcome these issues, we introduce **DiBO**, a novel framework for solving high-dimensional black-box optimization problems. Our method iterates two stages. First, we train a diffusion model to capture the data distribution and deep ensembles to predict function values with uncertainty quantification. Second, we cast the candidate selection as a posterior inference problem to balance exploration and exploitation in high-dimensional spaces. Concretely, we fine-tune diffusion models to amortize posterior inference. Extensive experiments demonstrate that our method outperforms state-of-the-art baselines across synthetic and real-world tasks. Our code is publicly available [here](https://github.com/umkiyoung/DiBO).
 
 For a visual explanation of the DiBO framework, please see the image below:
 ![DiBO Framework](../images/publication/dibo.png)

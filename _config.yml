@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "OM.IO"
+title                    : "Kiyoung Om"
 title_separator          : "-"
 name                     : &name "Kiyoung Om"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "umkiyoung/umkiyoung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kiyoungom.jpg"
+  avatar           : "kiyoungom-avatar.jpg"
   name             : "Kiyoung Om"
   pronouns         : "he/him"  
   bio              : "Research Intern at NAVER LABS"
