@@ -12,13 +12,36 @@ redirect_from:
 Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAVER LABS](https://www.naverlabs.com/). I received my M.S. in Data Science from the [Graduate School of Data Science](https://gsds.kaist.ac.kr/) at the Korea Advanced Institute of Science and Technology (KAIST), where I worked in the [System Intelligence Lab](http://silab.kaist.ac.kr/) under the supervision of Professor [Jinkyoo Park](https://scholar.google.com/citations?user=sH2a0nkAAAAJ&hl=ko&oi=ao). Here is my recent [CV](/assets/files/CV_Kiyoung_Om.pdf).
 
 <h2 id="news">📰 News</h2>
-* 🏆 **July 2026**: Our recent paper Flow-ERD ranked 1st on the official [WOSAC 2025 Sim Agents Challenge](https://waymo.com/open/challenges/2025/sim-agents/) leaderboard
-* 🚗 **March 2026**: Joined NAVER LABS as a Research Intern on the Robotics & Embodied AI Team
-* 📄 **January 2026**: Two papers accepted to ICLR 2026
-* 🎓 **February 2026**: Completed my M.S. in Data Science at KAIST
-* 📄 **Sep 2025**: One paper accepted at the NeurIPS 2025 workshop on SPIGM (Oral)
-* 📄 **May 2025**: One paper accepted at the International Conference on Machine Learning (ICML) 2025
-* 🎓 **March 2024**: Joined the System Intelligence Lab as a Master's student at KAIST
+<ol class="news-timeline" aria-label="Recent news">
+  <li class="news-timeline__item news-timeline__item--featured">
+    <time class="news-timeline__date" datetime="2026-07">July 2026</time>
+    <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">🏆</span>Our recent paper Flow-ERD ranked 1st on the official <a href="https://waymo.com/open/challenges/2025/sim-agents/">WOSAC 2025 Sim Agents Challenge</a> leaderboard.</p>
+  </li>
+  <li class="news-timeline__item">
+    <time class="news-timeline__date" datetime="2026-03">March 2026</time>
+    <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">🚗</span>Joined NAVER LABS as a Research Intern on the Robotics & Embodied AI Team.</p>
+  </li>
+  <li class="news-timeline__item">
+    <time class="news-timeline__date" datetime="2026-02">February 2026</time>
+    <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">🎓</span>Completed my M.S. in Data Science at KAIST.</p>
+  </li>
+  <li class="news-timeline__item">
+    <time class="news-timeline__date" datetime="2026-01">January 2026</time>
+    <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">📄</span>Two papers accepted to ICLR 2026.</p>
+  </li>
+  <li class="news-timeline__item">
+    <time class="news-timeline__date" datetime="2025-09">September 2025</time>
+    <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">📄</span>One paper accepted at the NeurIPS 2025 workshop on SPIGM (Oral).</p>
+  </li>
+  <li class="news-timeline__item">
+    <time class="news-timeline__date" datetime="2025-05">May 2025</time>
+    <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">📄</span>One paper accepted at the International Conference on Machine Learning (ICML) 2025.</p>
+  </li>
+  <li class="news-timeline__item">
+    <time class="news-timeline__date" datetime="2024-03">March 2024</time>
+    <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">🎓</span>Joined the System Intelligence Lab as a Master's student at KAIST.</p>
+  </li>
+</ol>
 
 <h2 id="education">🎓 Education</h2>
 
