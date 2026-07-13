@@ -110,11 +110,14 @@
 
 @media (max-width: 640px) {
   .selected-publication {
-    flex-direction: column;
+    gap: 0.75rem;
   }
 
   .selected-publication__image {
-    width: 100%;
-    flex-basis: auto;
+    flex-basis: 120px;
+  }
+
+  .selected-publication__content h3 {
+    font-size: 0.9rem;
   }
 }
