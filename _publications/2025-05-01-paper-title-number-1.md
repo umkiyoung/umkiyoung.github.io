@@ -5,14 +5,14 @@ category: conferences
 permalink: /publication/2025-05-01-dibo
 excerpt: ''
 date: 2025-05-01
-venue: 'ICML; FPI @ ICLR Workshop'
+venue: 'ICML (Poster)'
 paperurl: 'https://openreview.net/forum?id=EXds2NBOoq'
 codeurl: 'https://github.com/umkiyoung/DiBO'
 image: '/images/publication/dibo.png'
 image_alt: 'DiBO framework overview'
 short_title: 'DiBO'
 authors: 'Taeyoung Yun*, <strong>Kiyoung Om*</strong>, Jaewoo Lee, Sujin Yun, and Jinkyoo Park'
-citation: 'Yun, T.*, Om, K.*, Lee, J., Yun, S., &amp; Park, J. (2025). &quot;Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization.&quot; <i>ICML</i>; <i>FPI @ ICLR Workshop</i>.'
+citation: 'Yun, T.*, Om, K.*, Lee, J., Yun, S., &amp; Park, J. (2025). &quot;Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization.&quot; <i>ICML</i> (Poster).'
 bibtex: |
   @inproceedings{yun2025dibo,
     title={Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization},
