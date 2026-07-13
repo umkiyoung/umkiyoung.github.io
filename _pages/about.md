@@ -23,7 +23,7 @@ Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAV
 <ul class="affiliation-list">
   <li>
     <p class="affiliation-line">
-      <img class="affiliation-logo affiliation-logo--kaist" src="/images/logos/kaist-logo.gif" alt="KAIST logo">
+      <img class="affiliation-logo affiliation-logo--kaist" src="/images/logos/kaist-logo-white.png" alt="KAIST logo">
       <strong>KAIST</strong>
       <span class="affiliation-separator">|</span>
       <span>M.S. in Data Science <em>(2024 – 2026)</em></span>
@@ -35,7 +35,7 @@ Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAV
   </li>
   <li>
     <p class="affiliation-line">
-      <img class="affiliation-logo affiliation-logo--ku" src="/images/logos/korea-university-logo.png" alt="Korea University logo">
+      <img class="affiliation-logo affiliation-logo--ku" src="/images/logos/korea-university-logo-white.png" alt="Korea University logo">
       <strong>Korea University</strong>
       <span class="affiliation-separator">|</span>
       <span>B.S. in Industrial Management Engineering <em>(2018 – 2024)</em></span>
@@ -51,7 +51,7 @@ Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAV
 <ul class="affiliation-list">
   <li>
     <p class="affiliation-line">
-      <img class="affiliation-logo affiliation-logo--naver" src="/images/logos/naver-labs-logo.png" alt="NAVER LABS logo">
+      <img class="affiliation-logo affiliation-logo--naver" src="/images/logos/naver-labs-logo-white.png" alt="NAVER LABS logo">
       <strong>NAVER LABS</strong>
       <span class="affiliation-separator">|</span>
       <span>Research Intern, Robotics & Embodied AI Team <em>(Mar. 2026 – Present)</em></span>
