@@ -13,6 +13,7 @@ main:
 
   - title: "Talks"
     url: /#talks
+    hidden: true
 
   - title: "Teaching"
     url: /#teaching
@@ -24,7 +25,8 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /assets/files/CV_Kiyoung_Om.pdf
+    hidden: true
     
   # - title: "CV"
   #   url: /cv-json/
