@@ -12,6 +12,7 @@ redirect_from:
 Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAVER LABS](https://www.naverlabs.com/). I received my M.S. in Data Science from the [Graduate School of Data Science](https://gsds.kaist.ac.kr/) at the Korea Advanced Institute of Science and Technology (KAIST), where I worked in the [System Intelligence Lab](http://silab.kaist.ac.kr/) under the supervision of Professor [Jinkyoo Park](https://scholar.google.com/citations?user=sH2a0nkAAAAJ&hl=ko&oi=ao). Here is my recent [CV](/assets/files/CV_Kiyoung_Om.pdf).
 
 <h2 id="news">📰 News</h2>
+* 🏆 **July 2026**: Our recent paper Flow-ERD ranked 1st on the official [WOSAC 2025 Sim Agents Challenge](https://waymo.com/open/challenges/2025/sim-agents/) leaderboard
 * 🚗 **March 2026**: Joined NAVER LABS as a Research Intern on the Robotics & Embodied AI Team
 * 📄 **January 2026**: Two papers accepted to ICLR 2026
 * 🎓 **February 2026**: Completed my M.S. in Data Science at KAIST
