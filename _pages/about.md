@@ -32,16 +32,16 @@ Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAV
 
 <div class="selected-publications">
   <article class="selected-publication">
-    <a class="selected-publication__image" href="/publication/2025-05-01-dibo">
-      <img src="/images/publication/dibo.png" alt="DiBO framework overview">
+    <a class="selected-publication__image" href="/publication/2026-07-08-flow-erd">
+      <img src="/images/publication/flow-erd.png" alt="Flow-ERD framework overview">
     </a>
     <div class="selected-publication__content">
-      <h3><a href="/publication/2025-05-01-dibo">Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization (DiBO)</a></h3>
-      <p class="selected-publication__meta">ICML 2025; FPI @ ICLR Workshop</p>
-      <p>Diffusion-based posterior inference for high-dimensional black-box optimization.</p>
+      <h3><a href="/publication/2026-07-08-flow-erd">Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation</a></h3>
+      <p class="selected-publication__meta">arXiv preprint, 2026</p>
+      <p>Realistic and diverse closed-loop multi-agent traffic simulation for autonomous driving.</p>
       <p class="selected-publication__links">
-        <a href="https://openreview.net/forum?id=EXds2NBOoq">Paper</a>
-        <a href="https://github.com/umkiyoung/DiBO">Code</a>
+        <a href="https://arxiv.org/abs/2607.06957">Paper</a>
+        <a href="https://seulbinhwang.github.io/flow-erd-project-page/">Project</a>
       </p>
     </div>
   </article>
@@ -58,6 +58,21 @@ Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAV
         <a href="https://openreview.net/forum?id=X4DFcAfkFS">Paper</a>
         <a href="https://arxiv.org/abs/2507.00480">arXiv</a>
         <a href="https://github.com/umkiyoung/CiBO">Code</a>
+      </p>
+    </div>
+  </article>
+
+  <article class="selected-publication">
+    <a class="selected-publication__image" href="/publication/2025-05-01-dibo">
+      <img src="/images/publication/dibo.png" alt="DiBO framework overview">
+    </a>
+    <div class="selected-publication__content">
+      <h3><a href="/publication/2025-05-01-dibo">Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization (DiBO)</a></h3>
+      <p class="selected-publication__meta">ICML 2025; FPI @ ICLR Workshop</p>
+      <p>Diffusion-based posterior inference for high-dimensional black-box optimization.</p>
+      <p class="selected-publication__links">
+        <a href="https://openreview.net/forum?id=EXds2NBOoq">Paper</a>
+        <a href="https://github.com/umkiyoung/DiBO">Code</a>
       </p>
     </div>
   </article>
