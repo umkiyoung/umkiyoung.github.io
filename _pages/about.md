@@ -29,6 +29,12 @@ Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAV
 
   * Member of [Korea University Data Science Society (KUBIG)](https://kubigkorea.com/) 
 
+<h2 id="experience">Experience</h2>
+
+* **NAVER LABS** | Research Intern, Robotics & Embodied AI Team *(Mar. 2026 – Present)*
+
+  * Working on learning and simulation methods for autonomous driving, with a focus on closed-loop traffic simulation.
+
 <h2 id="publications">Publications</h2>
 
 {% include publications-list.html %}
