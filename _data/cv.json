@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "Kiyoung Om",
-    "label": "Research Intern at NAVER LABS",
+    "label": "Ph.D. Student at UT Austin",
     "email": "se99an@gmail.com",
     "phone": "+82-10-2575-5334",
     "website": "https://umkiyoung.github.io",
-    "summary": "Research intern at NAVER LABS and M.S. graduate from KAIST Graduate School of Data Science. My current research focuses on closed-loop covariate shift in traffic simulation for autonomous driving, with broader interests in generative models for optimization, control, and alignment.",
+    "summary": "Ph.D. student in Electrical and Computer Engineering at The University of Texas at Austin, advised by Prof. Amy Zhang in the MIDI Lab. Previously a research intern at NAVER LABS and an M.S. graduate from KAIST Graduate School of Data Science. My research interests include reinforcement learning, sequential decision making, and generative models for optimization, control, and alignment.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Seongnam",
-      "countryCode": "KR",
-      "region": "Gyeonggi-do"
+      "city": "Austin",
+      "countryCode": "US",
+      "region": "Texas"
     },
     "profiles": [
       {
@@ -36,7 +36,7 @@
       "company": "NAVER LABS",
       "position": "Research Intern",
       "startDate": "Mar. 2026",
-      "endDate": "Aug. 2026",
+      "endDate": "Jul. 2026",
       "summary": "Research on closed-loop covariate shift in traffic simulation for autonomous driving.",
       "highlights": [
         "Studying robust simulation and learning methods for autonomous vehicle policies interacting with dynamic traffic environments.",
@@ -56,6 +56,18 @@
     }
   ],
   "education": [
+    {
+      "institution": "The University of Texas at Austin",
+      "area": "Ph.D. in Electrical and Computer Engineering",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "Aug. 2026",
+      "endDate": "Present",
+      "gpa": null,
+      "courses": [
+        "Advisor: Prof. Amy Zhang",
+        "Machine Intelligence through Decision-making and Interaction (MIDI) Lab"
+      ]
+    },
     {
       "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
       "area": "M.S. in Data Science",

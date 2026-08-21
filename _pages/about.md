@@ -9,11 +9,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAVER LABS](https://www.naverlabs.com/). I received my M.S. in Data Science from the [Graduate School of Data Science](https://gsds.kaist.ac.kr/) at the Korea Advanced Institute of Science and Technology (KAIST), where I worked in the [System Intelligence Lab](http://silab.kaist.ac.kr/) under the supervision of Professor [Jinkyoo Park](https://scholar.google.com/citations?user=sH2a0nkAAAAJ&hl=ko&oi=ao). Here is my recent [CV](/assets/files/CV_Kiyoung_Om.pdf).
+Hi! I'm Kiyoung Om, a Ph.D. student in [Electrical and Computer Engineering](https://ece.utexas.edu/) at [The University of Texas at Austin](https://www.utexas.edu/), where I am advised by Professor [Amy Zhang](https://ece.utexas.edu/people/faculty/amy-zhang) in the [Machine Intelligence through Decision-making and Interaction (MIDI) Lab](https://midi-lab.github.io/). Previously, I was a research intern on the Robotics & Embodied AI Team at [NAVER LABS](https://www.naverlabs.com/). I received my M.S. in Data Science from the [Graduate School of Data Science](https://gsds.kaist.ac.kr/) at the Korea Advanced Institute of Science and Technology (KAIST), where I worked in the [System Intelligence Lab](http://silab.kaist.ac.kr/) under the supervision of Professor [Jinkyoo Park](https://scholar.google.com/citations?user=sH2a0nkAAAAJ&hl=ko&oi=ao). Here is my recent [CV](/assets/files/CV_Kiyoung_Om.pdf).
 
 <h2 id="news">📰 News</h2>
 <ol class="news-timeline" aria-label="Recent news">
   <li class="news-timeline__item news-timeline__item--featured">
+    <time class="news-timeline__date" datetime="2026-08">August 2026</time>
+    <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">🎓</span>Started my Ph.D. in Electrical and Computer Engineering at UT Austin, joining the <a href="https://midi-lab.github.io/">MIDI Lab</a> under the supervision of Professor <a href="https://ece.utexas.edu/people/faculty/amy-zhang">Amy Zhang</a>.</p>
+  </li>
+  <li class="news-timeline__item">
     <time class="news-timeline__date" datetime="2026-07">July 2026</time>
     <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">🏆</span>Our recent paper Flow-ERD ranked 1st on the official <a href="https://waymo.com/open/challenges/2025/sim-agents/">WOSAC 2025 Sim Agents Challenge</a> leaderboard.</p>
   </li>
@@ -48,6 +52,18 @@ Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAV
 <ul class="affiliation-list">
   <li>
     <p class="affiliation-line">
+      <img class="affiliation-logo affiliation-logo--ut" src="https://umac.utexas.edu/wp-content/themes/bellmont/dist/images/utexas-primary-horizontal-logo.svg" alt="The University of Texas at Austin logo">
+      <strong>UT Austin</strong>
+      <span class="affiliation-separator">|</span>
+      <span>Ph.D. in Electrical and Computer Engineering <em>(2026 – Present)</em></span>
+    </p>
+    <ul>
+      <li>Advisor: Prof. <a href="https://ece.utexas.edu/people/faculty/amy-zhang">Amy Zhang</a></li>
+      <li>Lab: <a href="https://midi-lab.github.io/">Machine Intelligence through Decision-making and Interaction (MIDI) Lab</a></li>
+    </ul>
+  </li>
+  <li>
+    <p class="affiliation-line">
       <img class="affiliation-logo affiliation-logo--kaist" src="/images/logos/kaist-logo-white.png" alt="KAIST logo">
       <strong>KAIST</strong>
       <span class="affiliation-separator">|</span>
@@ -79,7 +95,7 @@ Hi! I'm Kiyoung Om, a research intern on the Robotics & Embodied AI Team at [NAV
       <img class="affiliation-logo affiliation-logo--naver" src="/images/logos/naver-labs-logo-white.png" alt="NAVER LABS logo">
       <strong>NAVER LABS</strong>
       <span class="affiliation-separator">|</span>
-      <span>Research Intern, Robotics & Embodied AI Team <em>(Mar. 2026 – Present)</em></span>
+      <span>Research Intern, Robotics & Embodied AI Team <em>(Mar. 2026 – Jul. 2026)</em></span>
     </p>
     <ul>
       <li>Working on learning and simulation methods for autonomous driving, with a focus on closed-loop traffic simulation.</li>
