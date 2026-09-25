@@ -14,6 +14,10 @@ Hi! I'm Kiyoung Om, a Ph.D. student in [Electrical and Computer Engineering](htt
 <h2 id="news">📰 News</h2>
 <ol class="news-timeline" aria-label="Recent news">
   <li class="news-timeline__item news-timeline__item--featured">
+    <time class="news-timeline__date" datetime="2026-09">September 2026</time>
+    <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">📄</span>Our paper <a href="/publication/2025-05-15-cibo">CiBO: Posterior Inference in Latent Space for Scalable Constrained Black-box Optimization</a> was accepted to NeurIPS 2026 (Poster).</p>
+  </li>
+  <li class="news-timeline__item">
     <time class="news-timeline__date" datetime="2026-08">August 2026</time>
     <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">🎓</span>Started my Ph.D. in Electrical and Computer Engineering at UT Austin, joining the <a href="https://midi-lab.github.io/">MIDI Lab</a> under the supervision of Professor <a href="https://ece.utexas.edu/people/faculty/amy-zhang">Amy Zhang</a>.</p>
   </li>
