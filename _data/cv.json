@@ -144,6 +144,13 @@
   "references": [],
   "publications": [
     {
+      "name": "Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation",
+      "publisher": "IEEE Robotics and Automation Letters (RA-L) 2026",
+      "releaseDate": "2026-10-14",
+      "website": "https://arxiv.org/abs/2607.06957",
+      "summary": "Seulbin Hwang, Kiyoung Om, Daejung Kim, and Jinhan Lee."
+    },
+    {
       "name": "Diffusion Fine-Tuning via Reparameterized Policy Gradient of the Soft Q-Function",
       "publisher": "ICLR 2026",
       "releaseDate": "2026-01-26",

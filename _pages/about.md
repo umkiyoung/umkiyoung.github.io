@@ -14,6 +14,10 @@ Hi! I'm Kiyoung Om, a Ph.D. student in [Electrical and Computer Engineering](htt
 <h2 id="news">📰 News</h2>
 <ol class="news-timeline" aria-label="Recent news">
   <li class="news-timeline__item news-timeline__item--featured">
+    <time class="news-timeline__date" datetime="2026-10">October 2026</time>
+    <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">📄</span>Our paper <a href="/publication/2026-07-08-flow-erd">Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation</a> was accepted to IEEE Robotics and Automation Letters (RA-L).</p>
+  </li>
+  <li class="news-timeline__item">
     <time class="news-timeline__date" datetime="2026-09">September 2026</time>
     <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">📄</span>Our paper <a href="/publication/2025-05-15-cibo">CiBO: Posterior Inference in Latent Space for Scalable Constrained Black-box Optimization</a> was accepted to NeurIPS 2026 (Poster).</p>
   </li>
