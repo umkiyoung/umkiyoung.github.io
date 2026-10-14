@@ -15,7 +15,7 @@ Hi! I'm Kiyoung Om, a Ph.D. student in [Electrical and Computer Engineering](htt
 <ol class="news-timeline" aria-label="Recent news">
   <li class="news-timeline__item news-timeline__item--featured">
     <time class="news-timeline__date" datetime="2026-10">October 2026</time>
-    <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">📄</span>Our paper <a href="/publication/2026-07-08-flow-erd">Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation</a> was accepted to IEEE Robotics and Automation Letters (RA-L).</p>
+    <p class="news-timeline__body"><span class="news-timeline__icon" aria-hidden="true">📄</span>Our paper <a href="/publication/2026-07-08-flow-erd">Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation</a> was accepted to IEEE Robotics and Automation Letters (RA-L) and will be presented at ICRA 2027.</p>
   </li>
   <li class="news-timeline__item">
     <time class="news-timeline__date" datetime="2026-09">September 2026</time>
